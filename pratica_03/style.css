@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(231, 172, 153);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.wrapper{
+    background-color: bisque;
+    padding: 20px;
+    width: 50%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+}
